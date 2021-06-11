@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bras_de_fer</string>
+    <string name="menu_settings">Settings</string>
+    <string name="axex"></string>
+    <string name="axey"></string>
+    <string name="axez"></string>
+
+</resources>
